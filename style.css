@@ -1,0 +1,14 @@
+.sadhu,.dharshu{
+    background-color: lightgray;
+    box-shadow: 3px 3px 3px 3px black;
+}
+
+.a,.b,.c,.d{
+    padding-inline: 50px;
+    border-radius: 50px 100px 50px 100px;
+    background-color: goldenrod;
+    border: 3px solid black;
+    box-shadow: 2px 2px 2px 2px aqua;
+    
+}
+
